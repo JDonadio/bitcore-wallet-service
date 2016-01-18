@@ -176,9 +176,14 @@ Returns:
  * TX Proposal object. (see [fields on the source code](https://github.com/bitpay/bitcore-wallet-service/blob/master/lib/model/txproposal.js)). `.id` is probably needed in this case.
    
 
+# Push Notifications
+## Installation
 
-
-`
+  In order to use push notifications, you need to install:
+```
+  x-identity
+  x-signature
+```
  
 
 
